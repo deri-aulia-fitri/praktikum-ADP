@@ -17,8 +17,6 @@ while i < n:
     print("  Titik", i+1, ":", titik[i])
     i = i + 1
 print()
-
-
 print("Jarak antar titik:")
 i = 0
 while i < n:
