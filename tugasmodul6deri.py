@@ -10,7 +10,7 @@ while i < n:
     y = float(input("Masukkan nilai y : "))
     titik.append([x, y])
     i = i + 1
-#menampilkan titik
+
 print("\nDaftar titik:")
 i = 0
 while i < n:
@@ -18,7 +18,7 @@ while i < n:
     i = i + 1
 print()
 
-# menghitung jarak antara titik
+
 print("Jarak antar titik:")
 i = 0
 while i < n:
